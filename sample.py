@@ -13,7 +13,7 @@ import json
 
 # ~~~~~============== CONFIGURATION  ==============~~~~~
 # Replace "REPLACEME" with your team name!
-team_name = "yeouidostreet"
+team_name = "JavaJabba"
 
 # ~~~~~============== MAIN LOOP ==============~~~~~
 

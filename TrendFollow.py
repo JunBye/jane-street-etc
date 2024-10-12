@@ -13,7 +13,7 @@ import json
 import pandas as pd
 
 # ~~~~~============== CONFIGURATION  ==============~~~~~
-team_name = "yeouidostreet"
+team_name = "JavaJabba"
 
 # Parameters for moving averages
 short_window = 5  # Short-term moving average period
